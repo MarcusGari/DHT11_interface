@@ -1,0 +1,1 @@
+Biblioteca criada para a leitura das informação de temperatura e umidade do sensor DHT11
